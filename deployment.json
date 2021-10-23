@@ -1,0 +1,11 @@
+targets: {
+  SafeDecimalMath: {
+    name: "OptiPunks",
+    address: "0x047891AB019A08577ffb2EE88Efd63deD3da7763",
+    source: "OptiPunks",
+    link: "https://kovan-explorer.optimism.io/address/0x047891AB019A08577ffb2EE88Efd63deD3da7763",
+    timestamp: "Oct-23-2021 06:24:56 PM +UTC",
+    txn: "https://kovan-explorer.optimism.io/tx/GENESIS_047891AB019A08577ffb2EE88Efd63deD3da7763",
+    network: "kovan"
+  }
+}
